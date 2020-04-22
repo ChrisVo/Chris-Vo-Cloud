@@ -1,7 +1,5 @@
-# Codedoc Boilerplate
+# Welcome to my little corner
 
-Modify `docs/md/index.md` to change the contents of this page. This will be your starting
-page on your GitHub Pages site.
-
+Consider this my tech diary of how I fix and figure out things.
 
 > :ToCPrevNext
