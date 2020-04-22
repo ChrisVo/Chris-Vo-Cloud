@@ -2,110 +2,105 @@
   "init": [
     {
       "name": "initJssCs",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
-      "hash": "TVBJ6687//3kLgvY2ik2mg=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "VN7G0hN6CAg0prCmZrAX6A=="
     },
     {
       "name": "installTheme",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/content/theme.ts",
-      "hash": "GPIB7G5Usx541TOyVhYwOg=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/content/theme.ts",
+      "hash": "x3/x0Qfzb04zOsgWfLd3pA=="
     },
     {
       "name": "codeSelection",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
-      "hash": "al7tEyVh4DuCxrIBL3TWPQ=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "HEQQlAHJ32ilokaPipOaxA=="
     },
     {
       "name": "sameLineLengthInCodes",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
-      "hash": "YCNrMESVioDUTaikqg+02g=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "INoP00mXVgISviG6XZ1JUA=="
     },
     {
       "name": "initHintBox",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
-      "hash": "Qawbxz9puebQu1TiE3pGpQ=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "nGhuI63gL8w+S2oi5FxMgQ=="
     },
     {
       "name": "initCodeLineRef",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
-      "hash": "05F/IXJIGy3kcyGaNeI+pw=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "aVh/oqXtE63uMbFhm2o7WQ=="
     },
     {
       "name": "initSmartCopy",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
-      "hash": "1VY2F8h0DJxYN3VNK8zy1g=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "o1BtYflLbhlKYGm3CclpoA=="
     },
     {
       "name": "copyHeadings",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
-      "hash": "QafBNbVObHB6n6Fj59o2Dw=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "dj0z3n9WpVe+oqafWp+qGg=="
     },
     {
       "name": "contentNavHighlight",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
-      "hash": "jRHt0+i+2qmMExFZuT8izg=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "wzdTve2lPhBpFOGU1b6PjQ=="
     },
     {
       "name": "loadDeferredIFrames",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
-      "hash": "e8Asv/UWRAgkEKgn1s83cQ=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "w38BHPPtFuW0gG+BJ0K3eg=="
     },
     {
       "name": "smoothLoading",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
-      "hash": "xba6sCDMLvT5LwV7MKgqwg=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "FPuX/4gbIbXSCdnQIEuqYg=="
     },
     {
       "name": "tocHighlight",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
-      "hash": "x61ZxCZ2osyVMfhDME8/Dg=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "wO3cCKfncFYvNS11me7FEw=="
     },
     {
       "name": "postNavSearch",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
-      "hash": "SQLxUBGjS3rBDZx0AKjFbw=="
-    },
-    {
-      "name": "reloadOnChange",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
-      "hash": "G5n4eddH1TlX/Y7qLtcVyg=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "//rjvMv65rP2mEbLSSVlcg=="
     }
   ],
   "components": [
     {
       "name": "ToCPrevNext",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "rQyZZROlDDY/jI+DSB3IAA=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "7PLQ5GxStd6wx2PkbtTnWg=="
     },
     {
       "name": "ToCToggle",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
-      "hash": "NRdAZCo466ZbnHU0LbcUEQ=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "yOznCekekMTUJJDXOhI8kA=="
     },
     {
       "name": "DarkModeSwitch",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
-      "hash": "Z5hBtBBfbMYOoDYlSVAlkg=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "KYyB90lIUFpf3ZJeepXp4Q=="
     },
     {
       "name": "ConfigTransport",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
-      "hash": "Tvo0pULeXlFdezAcsjfDFg=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "IlTsh3JkaOHqWMYaySUHZg=="
     },
     {
       "name": "TabSelector",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
-      "hash": "39GcaaBMAMOzsRRGMhq9nw=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
+      "hash": "ExvX78NL06016IrdOf1CDQ=="
     },
     {
       "name": "CollapseControl",
-      "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
-      "hash": "k/vi/UgpfoBjMwOfm7hajA=="
+      "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "aARoHWWDtExSKilOUPhMvw=="
     }
   ],
   "renderer": {
     "name": "getRenderer",
-    "filename": "/Users/c60708a/cvo-wiki/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
-    "hash": "zIgtNul9q30HcVCajlMxEw=="
+    "filename": "/Users/c60708a/chrisvo.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "M6LSMf7CoEo20lYN+KSJqA=="
   }
 }
